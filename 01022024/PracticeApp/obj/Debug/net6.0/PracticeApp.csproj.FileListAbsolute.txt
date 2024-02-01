@@ -1,0 +1,15 @@
+C:\Users\elchin\Desktop\CodeLessons\29. 01-02-2024\01022024\PracticeApp\bin\Debug\net6.0\PracticeApp.exe
+C:\Users\elchin\Desktop\CodeLessons\29. 01-02-2024\01022024\PracticeApp\bin\Debug\net6.0\PracticeApp.deps.json
+C:\Users\elchin\Desktop\CodeLessons\29. 01-02-2024\01022024\PracticeApp\bin\Debug\net6.0\PracticeApp.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\29. 01-02-2024\01022024\PracticeApp\bin\Debug\net6.0\PracticeApp.dll
+C:\Users\elchin\Desktop\CodeLessons\29. 01-02-2024\01022024\PracticeApp\bin\Debug\net6.0\PracticeApp.pdb
+C:\Users\elchin\Desktop\CodeLessons\29. 01-02-2024\01022024\PracticeApp\obj\Debug\net6.0\PracticeApp.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\29. 01-02-2024\01022024\PracticeApp\obj\Debug\net6.0\PracticeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\29. 01-02-2024\01022024\PracticeApp\obj\Debug\net6.0\PracticeApp.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\29. 01-02-2024\01022024\PracticeApp\obj\Debug\net6.0\PracticeApp.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\29. 01-02-2024\01022024\PracticeApp\obj\Debug\net6.0\PracticeApp.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\29. 01-02-2024\01022024\PracticeApp\obj\Debug\net6.0\PracticeApp.dll
+C:\Users\elchin\Desktop\CodeLessons\29. 01-02-2024\01022024\PracticeApp\obj\Debug\net6.0\refint\PracticeApp.dll
+C:\Users\elchin\Desktop\CodeLessons\29. 01-02-2024\01022024\PracticeApp\obj\Debug\net6.0\PracticeApp.pdb
+C:\Users\elchin\Desktop\CodeLessons\29. 01-02-2024\01022024\PracticeApp\obj\Debug\net6.0\PracticeApp.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLessons\29. 01-02-2024\01022024\PracticeApp\obj\Debug\net6.0\ref\PracticeApp.dll
